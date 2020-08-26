@@ -19,11 +19,9 @@ body{
     color: #567A5C;
 
     line-height: 1.6em;
-    margin:0;
+    margin:2%;
     /*in body i'm going to set the margin to 0. So that the background doesn't have a weird margin In other classes I'll set it to auto*/
 }
-
-
 
 h1{
      color: #634025;
@@ -35,6 +33,11 @@ a{
     color: #452331;
     /*this will apply to all links*/
 }
+
+
+/*--------------------------------------------------------------------------------
+These are for holmes list.hmtl
+----------------------------------------------------------------------------------*/
 
 .Good{
     background-color: #0E2C35;
@@ -55,19 +58,36 @@ a{
     font-family: tahoma;
 }
 
+
+
 .Gay-But-Good{
     background-color: #7c648c;
     color:#fff;
+    margin:auto;
+    padding:10px
 }
 
 .Gay-But-Good h3{
     color: black;
 }
 
-.index{
-    background-color:#90A1A9;
+#best{
+    color:#E0030D
+}
 
-    border: 5px black dotted;
+/*--------------------------------------------------------------------------------
+These are for INDEX.html
+----------------------------------------------------------------------------------*/
+
+.index{
+    background-color:#E0030D;
+
+    border: 5px black dashed;
+    color:
+}
+
+.index h1{
+    color:#1D1007;
 }
 
 all-colors{
