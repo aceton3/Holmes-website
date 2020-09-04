@@ -80,15 +80,25 @@ These are for INDEX.html
 ----------------------------------------------------------------------------------*/
 
 .index{
-    background-color:#E0030D;
+    background-color:#8D1E16;
 
     border: 5px black dashed;
-    color:
+    color: ;
+    padding:1%;
 }
 
 .index h1{
     color:#1D1007;
 }
+
+.index a{
+    color:#BFB8B2;
+
+}
+
+/*--------------------------------------------------------------------------------
+These are for INDEX.html
+----------------------------------------------------------------------------------*/
 
 all-colors{
     color:#8D1E16;
@@ -113,9 +123,6 @@ all-colors{
     color:#586E17;
     color:#567A5C;
     color:#2B1E05;
-
-
-
 
 }
 
