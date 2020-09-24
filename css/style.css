@@ -1,0 +1,101 @@
+/*Some notes:
+    When dealing with containers, use percents. Scaling is weird if you use px*/
+
+*{
+    /*stuff within an *{ }  will apply to EVERYTHING
+    margin:0;
+    padding:0;*/
+}
+
+body{
+    background-color:#f0e3c7;
+
+    font-family: "baskerville", "bookman old style";
+    font-size:16px;
+    font-weight: bold;
+        /*vv this is a faster way to type all this ^^*/
+    font: bold 16px "baskerville", "bookman old style";
+
+    color: #567A5C;
+
+    line-height: 1.6em;
+    margin:0;
+    /*in body i'm going to set the margin to 0. So that the background doesn't have a weird margin In other classes I'll set it to auto*/
+}
+
+
+
+h1{
+     color: #634025;
+     /*this will apply to all h1s*/
+
+}
+
+a{
+    color: #452331;
+    /*this will apply to all links*/
+}
+
+.Good{
+    background-color: #0E2C35;
+    color:#fff;
+    width: auto;
+   
+    margin:10px 20px; /*this cant have color*/
+    
+    padding: 10px; /*this cant have color*/
+    padding-top:3px;
+
+    border: 10px black solid;
+
+
+}
+
+.good h3{
+    font-family: tahoma;
+}
+
+.Gay-But-Good{
+    background-color: #7c648c;
+    color:#fff;
+}
+
+.Gay-But-Good h3{
+    color: black;
+}
+
+.index{
+    background-color:#90A1A9;
+
+    border: 5px black dotted;
+}
+
+all-colors{
+    color:#8D1E16;
+    color:#E0030D;
+
+    color:#1D1007;
+    color:#8E402A;
+    color:#714115;
+    color:#AD732B;
+    color:#D0783D;
+    color:#EFDEC9;
+
+    color:#BFB8B2;
+    color:#7c648c;
+    color:#452331;
+    color:#1C070E;
+
+    color:#90A1A9;
+    color:#0E2C35;
+    color:#0A0604;
+
+    color:#586E17;
+    color:#567A5C;
+    color:#2B1E05;
+
+
+
+
+}
+
